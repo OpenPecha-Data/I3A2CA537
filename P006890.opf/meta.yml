@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W3MS109
   title: རོང་པོ་དགོན་ཆེན་དུ་བཞུགས་པའི་དཔེ་རྙིང་དཔེ་དཀོན།
   author: ''
-  volumes: {}
+  volumes:
+    b8edf80895494b798fad4b2ad21bf419:
+      image_group_id: I3MS111
+      title: ''
+      volume_number: 1
+      total_pages: 178
